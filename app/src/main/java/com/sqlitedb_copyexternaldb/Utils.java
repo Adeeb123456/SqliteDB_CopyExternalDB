@@ -1,12 +1,10 @@
-package com.sqlitedb_copyexternaldb.utils;
+package com.sqlitedb_copyexternaldb;
 
 import android.app.Activity;
 import android.content.Context;
 import android.support.v4.app.FragmentTransaction;
 import android.util.Log;
 import android.view.inputmethod.InputMethodManager;
-
-import com.ufo.learnchinese2.R;
 
 public class Utils {
     public static String CATEGORY_ID = "category_id";

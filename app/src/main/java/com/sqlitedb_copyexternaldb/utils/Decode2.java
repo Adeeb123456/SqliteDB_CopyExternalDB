@@ -1,7 +1,9 @@
-package com.ufo.learnchinese2.utils;
+package com.sqlitedb_copyexternaldb.utils;
 
 import android.util.Base64;
+
 import java.security.spec.KeySpec;
+
 import javax.crypto.Cipher;
 import javax.crypto.SecretKey;
 import javax.crypto.SecretKeyFactory;
