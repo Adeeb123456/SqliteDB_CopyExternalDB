@@ -1,4 +1,4 @@
-package com.sqlitedb_copyexternaldb;
+package com.sqlitedb_copyexternaldb.learnchines;
 
 import android.content.ContentValues;
 import android.content.Context;
@@ -10,6 +10,7 @@ import android.database.sqlite.SQLiteOpenHelper;
 import android.preference.PreferenceManager;
 
 
+import com.sqlitedb_copyexternaldb.R;
 
 import java.io.BufferedInputStream;
 import java.io.File;
